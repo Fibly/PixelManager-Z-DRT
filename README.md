@@ -1,3 +1,16 @@
+# PixelManager + Z-DRT
+
+This is a fork of [Joegenco/PixelManager](https://github.com/Joegenco/PixelManager), based specifically on the official [v.2.0-RC6 release tag](https://github.com/Joegenco/PixelManager/tree/v.2.0-RC6) at commit `d3ca750dc964ec75e66d9b213b1a251e94f300b4`.
+
+The Z-DRT branch starts from RC6; it does not include the later changes on upstream `master`.
+
+**Z-DRT release status: in preparation.** The final PixelManager + Z-DRT folder is not ready, and no Z-DRT release package has been uploaded. The config and LUTs in this branch are currently the unmodified RC6 files.
+
+Finished packages will be available from [GitHub Releases](https://github.com/Fibly/PixelManager-Z-DRT/releases) when they are ready.
+
+The original PixelManager documentation and source credits are preserved below.
+
+---
 
 # PixelManager OCIO config
 Tries to manage pixels colors
